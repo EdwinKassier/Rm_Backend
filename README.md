@@ -1,17 +1,20 @@
 ## Introduction
 
-Built off of a django boilerplate, this repo extends the idea of a classic TODO app as it encompasses the full CRUD functionality required. 
+Built off of a django boilerplate as well as a React bootstrap, this repo extends the idea of a classic TODO app as it encompasses the full CRUD functionality required. 
 
 ## Requirements
 * Python3
 * Pipenv
+* npm or Yarn
 
-## Getting started
+## Getting started - Frontend
 
 1. Source the virtual environment ```[pipenv shell]```
 2. Install the dependencies ```[pipenv install]```
-3. Navigate into the frontend directory ```[cd frontend]```
-4. Install the dependencies ```[npm install]```
+
+## Getting started - Backend
+
+1. Install the dependencies ```[npm install]```
 
 ## Run the application
 You will need two terminals pointed to the frontend and backend directories to start the servers for this application.
